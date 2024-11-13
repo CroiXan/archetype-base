@@ -15,5 +15,11 @@
         <include>**/*.java</include>
       </includes>
     </fileSet>
+    <fileSet encoding="UTF-8">
+      <directory>.vscode</directory>
+      <includes>
+        <include>**/*.json</include>
+      </includes>
+    </fileSet>
   </fileSets>
 </archetype-descriptor>
